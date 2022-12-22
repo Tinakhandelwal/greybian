@@ -33,9 +33,6 @@ def SecondSmallestPrime():
             i += 1
     return i
 
-
-    
-
 def findChars(str1):
     n = len(str1)
     SecondSmallestPrime = SecondSmallestPrime()
