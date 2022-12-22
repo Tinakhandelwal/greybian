@@ -47,6 +47,4 @@ def findChars(str1):
     
     
 str1 = "GREYBIANSROCK"
-
-    
-# print(SecondLargestPrime())
+print(findChars(str1))
